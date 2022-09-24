@@ -16,4 +16,4 @@ patches:
 
 resources:
   - game/application.yaml
-  - https://github.com/argoproj/argocd-example-apps.git
+  - https://raw.githubusercontent.com/argoproj/argocd-example-apps/master/kustomize-guestbook/kustomization.yaml
